@@ -1,0 +1,436 @@
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Protect your shins, protect your game. Learn why shin guards are essential and how to find the perfect fit. #PlayerSafety #ShinGuards #SoccerTips #TryKickZone #PlaySafe #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a close-up of a player's shin guards and socks, highlighting the importance of protective gear.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 23:59:26] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2024 23:59:31] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Building mental strength is as important as physical fitness in soccer. Learn techniques to boost your focus and resilience on the field. #MentalStrength #Focus #Resilience #TryKickZone #SoccerTips #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background practicing mindfulness or meditation techniques on the field.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 07:52:26] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 07:52:31] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Celebrating women in soccer: Learn about the milestones that have defined the growth of women's soccer globally. #WomensSoccer #SoccerHistory #FemaleAthletes #TryKickZone #SoccerGrowth #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of a women's soccer match in action with diverse players, celebrating the growth and achievements in women's soccer.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 23:59:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Sep/2024 23:59:25] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Soccer isn't just a sport; it's a global cultural phenomenon. Explore how soccer unites people worldwide, transcending language and borders. #GlobalGame #SoccerCulture #UnityThroughSport #TryKickZone #WorldSport #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of fans from diverse backgrounds cheering together at a soccer match, showcasing the unifying power of soccer.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 07:52:18] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 07:52:22] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Precision passing can turn the tide of any soccer game. Learn how to improve your passing accuracy and become the playmaker your team needs. #PassingAccuracy #Playmaker #SoccerSkills #TryKickZone #GameChanger #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background executing a precise pass during a game, highlighting passing accuracy.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:59:19] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2024 23:59:24] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Explore the rich history of soccer: From its official rules established in the 19th century to becoming the world's favorite sport today, discover the key moments and legendary players that have defined the beautiful game. #SoccerHistory #GlobalSport #LegendaryPlayers #EvolutionOfSoccer #TryKickZone #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Image of a diverse soccer player tying their cleats on the sidelines, emphasizing the importance of proper footwear. Ensure the player represents a diverse background without specific religious attire.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2024 07:52:25] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2024 07:52:31] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Goalkeeping is more than just blocking shots. Discover the essential techniques for positioning, reflexes, and communication that make an exceptional goalkeeper. #GoalkeepingSkills #SoccerTips #BeTheWall #TryKickZone #SoccerEducation #GoalkeeperLife
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a goalkeeper from a diverse background making a diving save during a soccer match, emphasizing goalkeeping skills.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2024 23:59:18] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2024 23:59:23] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Teamwork makes the dream work in soccer. Explore how collaboration on the field leads to success and memorable victories. #Teamwork #SoccerSkills #PlayTogether #TryKickZone #SoccerSuccess #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of a soccer game in progress, with players of diverse backgrounds demonstrating teamwork and passing techniques.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [23/Sep/2024 07:52:24] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Sep/2024 07:52:29] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Explore the rich history of soccer: From its official rules established in the 19th century to becoming the world's favorite sport today, discover the key moments and legendary players that have defined the beautiful game. #SoccerHistory #GlobalSport #LegendaryPlayers #EvolutionOfSoccer #TryKickZone #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Image of a diverse soccer player tying their cleats on the sidelines, emphasizing the importance of proper footwear. Ensure the player represents a diverse background without specific religious attire.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [23/Sep/2024 23:59:25] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Sep/2024 23:59:29] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Agility isn't just about quick feet; it's the key to dodging defenders and making crucial plays. Discover top agility drills like ladder and cone exercises to elevate your game. #AgilityTraining #SoccerSkills #PerformanceBoost #TryKickZone #SoccerDrills #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a young player from a diverse background practicing dribbling drills with cones on a soccer field, showcasing agility training.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2024 07:52:23] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2024 07:52:30] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Warm up like a pro! Find out why proper warm-up routines are critical and what exercises get you game-ready. #WarmUp #SoccerFitness #PreventInjury #TryKickZone #GameReady #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a group of diverse soccer players performing warm-up exercises together before a game.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2024 23:59:23] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2024 23:59:31] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Endurance is the backbone of soccer performance. Explore effective endurance training methods to keep you energized from the first whistle to the last. #EnduranceTraining #SoccerFitness #StayStrong #TryKickZone #GameReady #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Create an image of a soccer player from a diverse background jogging or running on a track, emphasizing endurance training.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2024 07:52:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2024 07:52:27] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Staying hydrated is more than just drinking water. Learn the what, when, and how of hydration specifically for soccer players, ensuring peak performance every match. #HydrationTips #SoccerPerformance #StayHydrated #TryKickZone #PlaySmart #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Image of a soccer player from a diverse background drinking water on the sidelines, highlighting the importance of hydration.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2024 23:59:28] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2024 23:59:33] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Understand the importance of speed in soccer. Learn how sprint training and acceleration drills can give you the edge on the field. #SpeedTraining #SoccerSkills #PerformanceBoost #TryKickZone #SoccerFitness #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Create an image of a soccer player from a diverse background sprinting on the field, focusing on speed and acceleration.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2024 07:52:25] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2024 07:52:31] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Nutrition is key to soccer performance. Discover what a balanced diet looks like for elite players and how it can improve your game. #SoccerNutrition #BalancedDiet #PerformanceBoost #TryKickZone #HealthyEating #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Create an image of a diverse group of soccer players enjoying a healthy meal together, emphasizing the importance of a balanced diet.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2024 23:59:26] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Sep/2024 23:59:31] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Soccer isn't just a sport; it's a global cultural phenomenon. Explore how soccer unites people worldwide, transcending language and borders. #GlobalGame #SoccerCulture #UnityThroughSport #TryKickZone #WorldSport #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of fans from diverse backgrounds cheering together at a soccer match, showcasing the unifying power of soccer.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2024 07:52:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2024 07:52:25] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: The science of soccer explains the physics behind every kick and pass. Understanding this can help you refine your skills and improve your game. #SoccerScience #GamePhysics #SkillImprovement #TryKickZone #SoccerIQ #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background striking a ball with precision, highlighting the physics of the game.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2024 23:59:18] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Sep/2024 23:59:23] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Precision passing can turn the tide of any soccer game. Learn how to improve your passing accuracy and become the playmaker your team needs. #PassingAccuracy #Playmaker #SoccerSkills #TryKickZone #GameChanger #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background executing a precise pass during a game, highlighting passing accuracy.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 07:52:19] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 07:52:25] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: The role of rest and recovery in soccer can't be overstated. Learn effective techniques for your post-game cooldown. #RestAndRecovery #SoccerHealth #PlayerWellbeing #TryKickZone #RecoveryTips #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Create an image of a soccer player from a diverse background receiving a massage or using a foam roller for recovery.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 23:59:28] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Sep/2024 23:59:33] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Warm up like a pro! Find out why proper warm-up routines are critical and what exercises get you game-ready. #WarmUp #SoccerFitness #PreventInjury #TryKickZone #GameReady #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a group of diverse soccer players performing warm-up exercises together before a game.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [29/Sep/2024 07:52:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Sep/2024 07:52:26] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Choosing the right soccer cleats can make or break your game. Learn about different types and find out which matches your playstyle and field conditions best. #CleatSelection #SoccerPerformance #FieldTypes #TryKickZone #PlayBetter #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Image of a soccer player tying their cleats on the sidelines, emphasizing the importance of proper footwear. Ensure the player represents a diverse background without specific religious attire.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [29/Sep/2024 23:59:24] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Sep/2024 23:59:28] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Good sportsmanship defines the spirit of soccer. Discover why respecting opponents and referees is crucial for everyone's enjoyment of the game. #Sportsmanship #FairPlay #Respect #TryKickZone #SoccerEthics #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of two soccer teams of diverse backgrounds shaking hands before or after a match, showcasing good sportsmanship.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [30/Sep/2024 07:52:22] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Sep/2024 07:52:27] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Protect your shins, protect your game. Learn why shin guards are essential and how to find the perfect fit. #PlayerSafety #ShinGuards #SoccerTips #TryKickZone #PlaySafe #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a close-up of a player's shin guards and socks, highlighting the importance of protective gear.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [30/Sep/2024 23:59:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Sep/2024 23:59:25] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Understanding offside rules can be tricky. Get a clear explanation of how it works and how to avoid getting caught offside during a match. #OffsideRule #SoccerIQ #PlaySmart #TryKickZone #SoccerTactics #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a diverse soccer team discussing the offside rule with their coach on the sidelines, focusing on understanding tactics.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 07:52:26] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 07:52:32] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Understanding soccer formations can elevate your tactical awareness on the field. Dive into common formations like 4-4-2 and 4-3-3 and learn how they influence gameplay. #SoccerFormations #Tactics #SoccerIQ #TryKickZone #GameStrategy #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Depict a coach from a diverse background explaining soccer formations on a tactical board to players, highlighting strategic planning.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 23:59:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Oct/2024 23:59:26] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Soccer promotes physical fitness and life skills in youth. Discover the benefits of youth soccer in developing teamwork, discipline, and confidence. #YouthSoccer #PlayerDevelopment #LifeSkills #TryKickZone #FutureStars #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Create an image of young soccer players from diverse backgrounds high-fiving after a game, highlighting youth development and teamwork.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2024 07:52:21] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2024 07:52:27] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Soccer strategies are key to winning. Delve into the most effective formations and tactics used by top teams around the world. #SoccerStrategies #Tactics #WinningPlays #TryKickZone #SoccerIQ #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer coach from a diverse background discussing strategies with players on the field, emphasizing tactical planning.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2024 23:59:23] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Oct/2024 23:59:28] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Soccer isn't just a sport; it's a global cultural phenomenon. Explore how soccer unites people worldwide, transcending language and borders. #GlobalGame #SoccerCulture #UnityThroughSport #TryKickZone #WorldSport #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Generate an image of fans from diverse backgrounds cheering together at a soccer match, showcasing the unifying power of soccer.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 07:52:23] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 07:52:30] "POST /post_to_facebook HTTP/1.1" 200 -
+/usr/bin/python3: can't open file '/home/pi/Desktop/Post_Bot/myenv/posbot/run_generate_both.py': [Errno 2] No such file or directory
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: Mastering ball control and dribbling can give you an edge over opponents. Learn drills and techniques to enhance your footwork and keep the ball at your feet. #BallControl #DribblingSkills #SoccerTraining #TryKickZone #Footwork #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background practicing dribbling with close ball control, emphasizing skill development.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 23:59:20] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Oct/2024 23:59:25] "POST /post_to_facebook HTTP/1.1" 200 -
+ * Serving Flask app 'postbot'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:generate_both endpoint called
+INFO:root:Prompts loaded successfully
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Content generated successfully for prompt: The science of soccer explains the physics behind every kick and pass. Understanding this can help you refine your skills and improve your game. #SoccerScience #GamePhysics #SkillImprovement #TryKickZone #SoccerIQ #SoccerEducation
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+INFO:root:Image generated successfully for prompt: NO TEXT - Illustrate a soccer player from a diverse background striking a ball with precision, highlighting the physics of the game.
+INFO:root:Content and image generated successfully
+INFO:werkzeug:127.0.0.1 - - [04/Oct/2024 07:52:19] "POST /generate_both HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Oct/2024 07:52:24] "POST /post_to_facebook HTTP/1.1" 200 -
